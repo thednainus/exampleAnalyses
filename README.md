@@ -14,3 +14,7 @@ Main R packages I use in these scripts:
 
 3. [BayesianTools](https://github.com/florianhartig/BayesianTools)
 
+ ---
+ 
+ [IQ-TREE](http://www.iqtree.org/) is the program I used to estimate phylogenetic trees
+
